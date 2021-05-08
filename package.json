@@ -39,7 +39,7 @@
     "@types/tough-cookie": "^2.3.4",
     "axios": "^0.21.1",
     "axios-cookiejar-support": "^0.4.2",
-    "json-bigint": "^0.3.0",
+    "json-bigint": "^1.0.0",
     "qs": "^6.6.0",
     "tough-cookie": "^2.5.0"
   },
